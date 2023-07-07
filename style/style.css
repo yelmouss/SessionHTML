@@ -1,0 +1,52 @@
+
+h1 {
+  text-align: center;
+}
+
+#Menu li {
+    display: inline;
+    margin: 2%;
+  
+}
+
+#Menu {
+    text-align: center;
+}
+header{
+    background-color: black;
+    color: aliceblue;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue ;
+    font-weight: bold;
+}
+#Accueil, #aPropos, #Contact{
+    text-align: center;
+  
+}
+
+#Accueil p, #aPropos p, #Contact p{
+width: 80%;
+text-align: center;
+margin-left: 10%; 
+}
+
+
+
+.MyImage {
+
+    height: 250px;
+    width: 100%;
+}
+
+footer {
+
+    text-align: center;
+    background-color: black;
+    font-weight: bolder;
+    padding: 2%;
+    color: aliceblue;
+    margin-top: 10%;
+}
